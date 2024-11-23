@@ -9,6 +9,7 @@ async function gerarPokemon(num) {
          sprite: json.sprites.other.showdown.front_default
       })
    })
+   
 }
 
 gerarPokemon(1)
